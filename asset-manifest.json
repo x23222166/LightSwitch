@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LightSwitch/static/css/main.e6c13ad2.css",
+    "main.js": "/LightSwitch/static/js/main.9b8b6da7.js",
+    "static/js/453.7aaf07cb.chunk.js": "/LightSwitch/static/js/453.7aaf07cb.chunk.js",
+    "index.html": "/LightSwitch/index.html",
+    "main.e6c13ad2.css.map": "/LightSwitch/static/css/main.e6c13ad2.css.map",
+    "main.9b8b6da7.js.map": "/LightSwitch/static/js/main.9b8b6da7.js.map",
+    "453.7aaf07cb.chunk.js.map": "/LightSwitch/static/js/453.7aaf07cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9b8b6da7.js"
+  ]
+}
